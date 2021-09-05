@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruixuan Shen @Rick0037 a master student of Power engineering and Engineering Thermophysics but transform in computer science.  
 - 👀 I’m interested in C++, MatLab to finish some Socket Programming about how to build a high perfromance server, and use Machine Learning to reduce Drag.  
-- 🌱 I’m currently learning to some new tech RPC, coroutine, Docter, K8s.   
+- 🌱 I’m currently want to learning some new tech like RPC, coroutine, Docter, K8s.   
 - 💞️ I’m looking to collaborate on my own task.
 - 📫 You can teach me by mailing to 19s053048@stu.hit.edu.cn.  
