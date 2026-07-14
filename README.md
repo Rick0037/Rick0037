@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ruixuan Shen @Rick0037 a master student of Power engineering and Engineering Thermophysics but transform in computer science.  
-- 👀 I’m interested in C++, Shell, Linux, MatLab, ROS, With check Highprecision map and Hdmapsdk, MapServer, adais map.  
-- 🌱 I’m currently want to learning some new tech like Mapping Locating, RPC, coroutine, Docker, K8s.   
-- 💞️ I’m working at Dji company in Shenzhen.
+- 👋 Hi, I’m Ruixuan Shen @Rick0037 a C++ developer now wants to transform to AI Infra.  
+- 👀 I’m interested in C++, Python in Linux.  
+- 🌱 I’m currently want to learning AI Infra.   
+- 💞️ I’m working at Dji/ZYT/JD company in Shenzhen.
 - 📫 You can teach me by mailing to 19s053048@stu.hit.edu.cn.  
