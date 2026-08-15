@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ruixuan Shen @Rick0037 a Cpp developer now transform to AI Infra.  
-- 👀 I’m interested in LLM Infer, C++, Cuda, Python in Linux.     
-- 💞️ I’m working at Dji/ZYT/JD company in Shenzhen.
+- 👀 I’m interested in LLM Infer, C++, Cuda, Python in Linux.
+- 🌱 I earned my master’s degree from Harbin Institute of Technology, Shenzhen. 
+- 💞️ I have been working at Dji -> ZYT -> JD specializing in autonomous driving.
 - 📫 You can teach me by mailing to 19s053048@stu.hit.edu.cn.  
