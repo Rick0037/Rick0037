@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ruixuan Shen @Rick0037 a C++ developer now wants to transform to AI Infra.  
-- 👀 I’m interested in C++, Python in Linux.  
-- 🌱 I’m currently want to learning AI Infra.   
+- 👋 Hi, I’m Ruixuan Shen @Rick0037 a Cpp developer now transform to AI Infra.  
+- 👀 I’m interested in LLM Infer, C++, Cuda, Python in Linux.     
 - 💞️ I’m working at Dji/ZYT/JD company in Shenzhen.
 - 📫 You can teach me by mailing to 19s053048@stu.hit.edu.cn.  
